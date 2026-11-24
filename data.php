@@ -11,10 +11,7 @@ $jumlah = mysqli_num_rows($hasil);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Data Anggota Perpustakaan</title>
-</head>
-<style>
-    
-<style>
+    <style>
     body {
         font-family: Arial, sans-serif;
         background-color: #f4f6f5;
@@ -102,8 +99,8 @@ $jumlah = mysqli_num_rows($hasil);
         white-space: nowrap;
     }
 </style>
+</head>
 
-</style>
 <body>
 
     <h1>Data Anggota Perpustakaan</h1>
